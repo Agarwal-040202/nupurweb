@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/nupurweb/static/css/main.02a70556.css",
+    "main.js": "/nupurweb/static/js/main.c1d6a496.js",
+    "static/js/787.1ed0c42c.chunk.js": "/nupurweb/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bg-1.jpg": "/nupurweb/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/event6.jpg": "/nupurweb/static/media/event6.d79142b6f3ae8822585a.jpg",
+    "static/media/event5.jpg": "/nupurweb/static/media/event5.f803df34493bc8d9b63a.jpg",
+    "static/media/event4.jpg": "/nupurweb/static/media/event4.26291dfc9f2aebeae339.jpg",
+    "static/media/event3.jpg": "/nupurweb/static/media/event3.cbf9c60e52bdfeaf8520.jpg",
+    "static/media/event2.jpg": "/nupurweb/static/media/event2.c4bf83ff1b509f795f8a.jpg",
+    "static/media/profileImg5.jpg": "/nupurweb/static/media/profileImg5.c3267c28abfbed35c5d4.jpg",
+    "static/media/event1.jpg": "/nupurweb/static/media/event1.237d091136298118a22b.jpg",
+    "static/media/me7.jpg": "/nupurweb/static/media/me7.37576b05a574d092aa9a.jpg",
+    "static/media/mailz.jpeg": "/nupurweb/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/event7.jpg": "/nupurweb/static/media/event7.07df324b3b78c1494df6.jpg",
+    "static/media/education1.svg": "/nupurweb/static/media/education1.8e423fca51a550573dc8.svg",
+    "index.html": "/nupurweb/index.html",
+    "static/media/programming-skills.svg": "/nupurweb/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/nupurweb/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/nupurweb/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/nupurweb/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/nupurweb/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.02a70556.css.map": "/nupurweb/static/css/main.02a70556.css.map",
+    "main.c1d6a496.js.map": "/nupurweb/static/js/main.c1d6a496.js.map",
+    "787.1ed0c42c.chunk.js.map": "/nupurweb/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a70556.css",
+    "static/js/main.c1d6a496.js"
+  ]
+}
