@@ -1,0 +1,44 @@
+.Paper-container{
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+   /* color:green; */
+    margin: 40px 0;
+   
+}
+.sub-heading{
+    font-family: serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: blue;
+}
+.sub-hading-details{
+    font-family: serif;
+    font-weight: lighter;
+    font-size: 14px;
+    color: #1f2235;
+}
+.paper-card{
+    /* border: 1px solid red; */
+    width: 1095px;
+    max-width: 1100px;
+    box-shadow: 0 0px 20px -2px #1f2235;
+    
+}
+a{
+    font-family: serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-Left: 25px;  
+}
+a:hover{
+    /* color: #010188; */
+}
+@media screen and (max-width: 1024px) {
+    .paper-card{
+        
+        width: 80%;
+    }
+}
