@@ -11,7 +11,7 @@ const Profile = () => {
       <Navbar id="home">
 
       </Navbar>
-    <section style={{marginTop:"60px"}}>
+    <section className="profile-section">
     <div className="profile-container">
       <div className="prfile-parent">
         <div className="profile-details">

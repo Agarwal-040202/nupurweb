@@ -1,4 +1,5 @@
 .home-container{
+    border: 1px solid red;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -6,4 +7,10 @@
     background-color:black;
     /* background-color: #1f2235; */
     /* background-image: url('../../assets/Home/bg.jpg'); */
+}
+
+@media screen and (max-width: 1280px) {
+    .home-container{
+        min-height: 800px; 
+    }
 }

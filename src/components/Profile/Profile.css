@@ -8,7 +8,10 @@
   min-height: fit-content;
   /* background-color: #1f2235; */
 }
-
+.profile-section{
+  /* border: 2px soild white; */
+  margin-top:60px;
+}
 .prfile-parent {
   display: flex;
   align-items: center;
@@ -16,7 +19,7 @@
 }
 
 .profile-details-name {
-  border: 2px soild red;
+  /* border: 2px soild red; */
   font-size: 24px;
   font-family: "Poppins SemiBold";
 }
@@ -102,7 +105,11 @@
 .colz .colz-icon i:hover {
   transform: scale(1.5);
 }
-
+@media screen and (max-width: 1280px) {
+  .profile-section {
+    margin-top: 0px;
+  }
+}
 @media screen and (max-width: 1110px) {
   .profile-picture {
     margin: 0 0px 0 80px;
