@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nupurweb/static/css/main.967e2c3d.css",
+    "main.css": "/nupurweb/static/css/main.7559083e.css",
     "main.js": "/nupurweb/static/js/main.3f6c55be.js",
     "static/js/787.1ed0c42c.chunk.js": "/nupurweb/static/js/787.1ed0c42c.chunk.js",
     "static/media/bg-1.jpg": "/nupurweb/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
@@ -21,12 +21,12 @@
     "static/media/interests.svg": "/nupurweb/static/media/interests.809890a3e4fb0938f61b.svg",
     "static/media/education.svg": "/nupurweb/static/media/education.10cfa28a40119ebd70cf.svg",
     "static/media/work-history.svg": "/nupurweb/static/media/work-history.a566475dedb99dea4bb8.svg",
-    "main.967e2c3d.css.map": "/nupurweb/static/css/main.967e2c3d.css.map",
+    "main.7559083e.css.map": "/nupurweb/static/css/main.7559083e.css.map",
     "main.3f6c55be.js.map": "/nupurweb/static/js/main.3f6c55be.js.map",
     "787.1ed0c42c.chunk.js.map": "/nupurweb/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.967e2c3d.css",
+    "static/css/main.7559083e.css",
     "static/js/main.3f6c55be.js"
   ]
 }
