@@ -2,6 +2,7 @@ import React from "react";
 import ScreenHeading from "../../Utilites/ScreenHeading/ScreenHeading";
 import "./book.css";
 import data from "./bookData";
+import imgbook from "../Book/bookImage/book.jpg"
 
 const Book = () => {
   return (
@@ -11,12 +12,13 @@ const Book = () => {
         <div className="book-container">
           <div className="book-card-div">
            
-            {data.map((img) => {
+            {data.map((imge) => {
               return (
-                <div className="book-card" key={img.id}>
-                  <a href={img.booklink} target="_blank"  style={{textDecoration:"none", width:"0px",height:"0px",marginLeft:"0px"}}>
-                  <img src={img.image} className="book-image" />
-                  <span>{img.description}</span>
+                <div className="book-card" key={imge.id}>
+                  <a href={imge.booklink} target="_blank"  style={{textDecoration:"none", width:"0px",height:"0px",marginLeft:"0px"}}>
+                  {/* <img src={imgbook} className="book-image"/> */}
+                  <img src={imge.image} className="book-image" />
+                  <span>{imge.description}</span>
                   </a>
                 </div>
               );
@@ -25,6 +27,7 @@ const Book = () => {
           </div>
         </div>
       </section>
+    
     </div>
   );
 };

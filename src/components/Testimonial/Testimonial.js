@@ -3,7 +3,9 @@ import ScreenHeading from "../../Utilites/ScreenHeading/ScreenHeading";
 import "./Testimonial.css";
 import Footer from "../Profile/Footer/Footer";
 import Slider from "react-slick";
-
+import ramimg from "../Testimonial/assets/drswami1.jpg";
+import dasiyimg from "../Testimonial/assets/daisy.jpg"
+import ladyimg from "../Testimonial/assets/lady.png"
 
 const Testimonial = (props) => {
   var settings = {
@@ -83,6 +85,7 @@ const Testimonial = (props) => {
               <div className="row">
                 <Slider {...settings}>
                  <div className="col-lg-12">
+                   
                   <div className="testi-item">
                     <div className="testi-comment">
                       <p>
@@ -112,7 +115,7 @@ const Testimonial = (props) => {
                     </div>
 
                     <div className="client-info">
-                      <img src="img/testimonial/drswami1.jpg" />
+                      <img src={ramimg} />
                       <h5>Dr. Mangey Ram</h5>
                       <p>Professor in GEU</p>
                     </div>
@@ -149,7 +152,7 @@ const Testimonial = (props) => {
                     </div>
 
                     <div className="client-info">
-                      <img src="img/testimonial/lady.png" />
+                      <img src={dasiyimg} />
                       <h5>Daisy Dominic</h5>
                       <p>CEO InansGloobal</p>
                     </div>
@@ -186,7 +189,7 @@ const Testimonial = (props) => {
                     </div>
 
                     <div className="client-info">
-                      <img src="img/testimonial/lady.png" />
+                      <img src={ladyimg}/>
                       <h5>Daisy Dominic</h5>
                       <p>CEO InansGloobal</p>
                     </div>
@@ -223,7 +226,7 @@ const Testimonial = (props) => {
                     </div>
 
                     <div className="client-info">
-                      <img src="img/testimonial/lady.png" />
+                    <img src={ladyimg}/>
                       <h5>Daisy Dominic</h5>
                       <p>CEO InansGloobal</p>
                     </div>
@@ -260,7 +263,7 @@ const Testimonial = (props) => {
                     </div>
 
                     <div className="client-info">
-                      <img src="img/testimonial/lady.png" />
+                    <img src={dasiyimg}/>
                       <h5>Daisy Dominic</h5>
                       <p>CEO InansGloobal</p>
                     </div>
@@ -297,7 +300,7 @@ const Testimonial = (props) => {
                     </div>
 
                     <div className="client-info">
-                      <img src="img/testimonial/lady.png" />
+                    <img src={ladyimg}/>
                       <h5>Daisy Dominic</h5>
                       <p>CEO InansGloobal</p>
                     </div>
